@@ -1,5 +1,5 @@
 # Seattle Breaking into Tech Guide
-> I decided to get the ball rolling on this guide but would input from others in the community as I'm fairly new to the area. (make a PR!)
+> I decided to get the ball rolling on this guide but welcome would input from others in the community as I'm fairly new to the area. (make a PR!)
 
 ----
 ## Meetups
